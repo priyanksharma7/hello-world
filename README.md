@@ -1,8 +1,8 @@
 # hello-world
 
-Hi fuckers!
+Hello everyone!
 
-Chitty chitty Bang Bang!
+This is my first tutorial in Github.
 
-Regards,
-Daddy Priyank
+Best,
+Priyank
